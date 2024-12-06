@@ -1,0 +1,21 @@
+Juego: Resumen Ordenado
+
+1. Carpeta del Juego:  
+   - El juego se encuentra dentro de la carpeta **"prototipoTanaka"**. Los demás archivos son parte del proyecto.  
+
+2. Inicio:  
+   - Elige un personaje (mujer u hombre).  
+   - La nave toma el color del personaje elegido y se pasa al gameplay.  
+
+3. Gameplay:  
+   - Movimiento: Controla la nave con WASD.  
+   - Disparo: Apunta con el mouse.  
+   - Objetivo: Destruye enemigos dirigiendo tus disparos hacia ellos.  
+   - **Daño**: Las balas enemigas reducen tu vida. Si llega a 0, pasas a la escena de derrota.  
+
+4. Jefe Final:  
+   - Enemigo más fuerte con más vida y mayor ataque.  
+   - Si lo derrotas, pasas a la escena de victoria.  
+
+--- 
+¡Fin del juego!
